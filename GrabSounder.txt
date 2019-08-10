@@ -1,2 +1,4 @@
-”стройство представл€ет из себ€ динамик и приемник сигнала. Ётот девайс можно прикрепить на вещи, которые мы посто€нно тер€ем: пульт от телевизора, ключи от квартиры.
-ѕолзователь, через приложение на своем смартфоне сможет выбрать нужный предмет, динамик издаст звук, и пользователю не придетс€ нервничать и тратить врем€ на поиск.
+The device is a speaker and a signal receiver. This device can be attached to things that we constantly lose: the remote control of the TV, the keys to the apartment.
+
+The user, through the application on your smartphone will be able to select the desired item, the speaker will make a sound, and the user does not have to be nervous
+and spend time searching.
